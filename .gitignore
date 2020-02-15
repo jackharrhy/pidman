@@ -1,0 +1,7 @@
+*.swp
+
+lib/
+*.o
+pidman
+
+.env
