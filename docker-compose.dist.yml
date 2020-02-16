@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  stackcoin:
+    image: stackcoin
+    environment:
+      PIDMAN_DISCORD_TOKEN=
+      PIDMAN_DISCORD_CLIENT_ID=
+      PIDMAN_PREFIXt=
